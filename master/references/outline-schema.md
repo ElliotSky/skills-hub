@@ -131,7 +131,7 @@ created_at: YYYY-MM-DD
 
 ## 五、完整示例：线性代数入门
 
-### `/mnt/d/Master/linear-algebra/outline.md`
+### `<cwd>/linear-algebra/outline.md`
 
 ```markdown
 ---
@@ -162,7 +162,7 @@ current_stage: 1
 线性代数来自「如何系统解多元一次方程组」这个古老需求。其核心发现是：这些方程的解集有强烈的几何结构——它们是「平坦的」空间（点、线、面、超平面）。一旦接受「线性」（叠加原理），整个理论的形式就几乎是唯一确定的。
 ```
 
-### `/mnt/d/Master/linear-algebra/stages/stage-01-vectors.md`（片段）
+### `<cwd>/linear-algebra/stages/stage-01-vectors.md`（片段）
 
 ```markdown
 ---
